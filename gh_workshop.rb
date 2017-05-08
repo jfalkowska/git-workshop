@@ -1,3 +1,3 @@
 # git workshop
 
-# sample text for commit 2 hello
+# sample text for commit 2
